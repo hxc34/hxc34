@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello! 👋
 
-Hello, my name is Henry Chen. I'm currently a computer science major at the University of Western Ontario.
+My name is Henry Chen. I'm currently a computer science major at the University of Western Ontario.
 
 I speak English, with some Chinese. 
 <!--

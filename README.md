@@ -1,12 +1,10 @@
 ### Hello! 👋
 
-My name is Henry Chen. I'm currently a computer science major at the University of Western Ontario.
+My name is Henry Chen. 
 
-I'm fluent in a wide variety of cs languages, from Java, to Html5, to C. 
+I'm currently a Computer Science student at the University of Western Ontario.
 
-I'm intrestead in a wide variety of non-cs related topics, particularly in Philosphy, Politics, Anthropology, and History.
-
-I understand the English language, with some knowladge of the Chinese language. 
+Funfact: I speak some Chinese along with English
 <!--
 **hxc34/hxc34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

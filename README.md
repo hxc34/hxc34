@@ -2,7 +2,7 @@
 
 My name is Henry Chen. 
 
-I have a bachelors in Computer Science from the University of Western Ontario
+I have a bachelors in Computer Science from the University of Western Ontario, having graduated with an honours specilization in computer science, and a minor in game design
 
 Professionally, I previously worked as a Quality Assurance Intern at J.D. POWER
 
